@@ -6,7 +6,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link]()
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiYmU3ODY1YjEtOTc3Ni00MzYyLTgzYjEtMTA3ZmZjZTdlMDRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73)
 
 ## Tech stacks
 
@@ -155,7 +155,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
 
-<img 
+![Alt text](https://raw.githubusercontent.com/TanmayBhagat/BUSINESS-INSIGHT-360/da89725ed52a7618d63a4f3f55d44958928bc6b4/data%20model.png)
 
 ### Dashboard designing
 
@@ -165,30 +165,27 @@ Based on the mock ups received as requirement, the team will start designing the
 
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 
-![Home view.gif](https://github.com/TanmayBhagat/BUSINESS-INSIGHT-360/blob/0a0f9fabea068ce1e30b487558ac341931f72994/home%20view.gif)
+![Home view.gif](https://github.com/TanmayBhagat/BUSINESS-INSIGHT-360/blob/5e25739ffd7fb74c63594a72983eb41c9da36cb4/home%20view.gif)
 
 ## Finance View
 
-![Finace.gif]()
+![Finace.gif](https://github.com/TanmayBhagat/BUSINESS-INSIGHT-360/blob/5e25739ffd7fb74c63594a72983eb41c9da36cb4/finance%20view.gif)
+
 ## Sales View
 
-![Sales.gif]()
+![Sales.gif](https://github.com/TanmayBhagat/BUSINESS-INSIGHT-360/blob/5e25739ffd7fb74c63594a72983eb41c9da36cb4/sales%20view.gif)
 
 ## Marketing View
 
-![Marketing.gif]()
+![Marketing.gif](https://github.com/TanmayBhagat/BUSINESS-INSIGHT-360/blob/5e25739ffd7fb74c63594a72983eb41c9da36cb4/marketing%20view.gif)
 
 ## Supply chain View
 
-![Supply chain.gif]()
+![Supply chain.gif](https://github.com/TanmayBhagat/BUSINESS-INSIGHT-360/blob/5e25739ffd7fb74c63594a72983eb41c9da36cb4/supply%20chain%20view.gif)
 
 ## Executive View
 
-![Executive.gif]()
-
-
-you can find the full report file here : [Report]()
-
+![Executive.gif](https://github.com/TanmayBhagat/BUSINESS-INSIGHT-360/blob/5e25739ffd7fb74c63594a72983eb41c9da36cb4/executive%20view.gif)
 
 ## Project Outcome
 
