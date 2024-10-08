@@ -165,16 +165,7 @@ Based on the mock ups received as requirement, the team will start designing the
 
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 
-![Home view.gif]()
-
-- Info
-- Finance View
-- Sales View
-- Marketing View
-- Supply chain View
-- Executive View
-- Products
-- Support
+![Home view.gif](https://github.com/TanmayBhagat/BUSINESS-INSIGHT-360/blob/0a0f9fabea068ce1e30b487558ac341931f72994/home%20view.gif)
 
 ## Finance View
 
