@@ -190,3 +190,7 @@ In Home view, all the views button will be available. User will land on specific
 ## Project Outcome
 
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+
+---
+
+### 📂 My Portfolio: [Tanmay Bhagat's Portfolio](https://codebasics.io/portfolio/Tanmay-Bhagat)
